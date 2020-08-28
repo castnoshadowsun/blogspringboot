@@ -1,2 +1,6 @@
 server:
   port: 8080
+elasticsearch:
+  host: 115.159.53.71
+  port: 9200
+  schemeName: http
